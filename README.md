@@ -1,21 +1,12 @@
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-rTCIwDmMX3S-XhnhzfNRNVKNZE-g52lPSXg0klN7Ld1czE7KGcXixCU&s=10" align="center" style="width: 100%" />
+<img src="https://i.ppy.sh/9b02549824d77d5b8ee1c35f0391c2754ccbab47/68747470733a2f2f6d656469612e74656e6f722e636f6d2f445170453747514e376a4941414141432f6369642d6b6167656e6f752d656d696e656e63652d696e2d736861646f772e676966" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+## **Go aisatsu**  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+# **WELCOME TO MY GITHUB**  
   
 
 <br/>  
